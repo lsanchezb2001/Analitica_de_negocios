@@ -16,3 +16,5 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, PYTHON 
 *Tercer elemento
 
 [Universidad Externado de Colombia](https://www.uexternado.edu.co/)
+
+![Github](https://github.blog/wp-content/uploads/2024/07/github-logo.png)
