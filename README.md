@@ -8,7 +8,11 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, PYTHON 
 ###### Hola_mundo_6
 ## **Este es mi primer repositorio en GitHub**
 *Administración de empresas*
+
 *Primer elemento
+
 *Segundo elemento
+
 *Tercer elemento
+
 [Universidad Externado de Colombia](https://www.uexternado.edu.co/)
